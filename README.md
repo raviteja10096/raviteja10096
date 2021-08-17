@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raviteja10096
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Exploring Angular Projects
+- 🌱 I’m currently learning Angular and python
+- 💞️ I’m looking to collaborate on Exploring Angular/python Projects
 - 📫 Reach me out @raviteja0096@gmail.com
 
 <!---

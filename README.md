@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @raviteja10096<br>🌱 I’m currently Working on Airflow, Python, C#, Codefresh anf MongoDB<br>💞️ I’m looking to collaborate on Exploring Angular/python Projects<br>📫 Reach me out @raviteja0096@gmail.com
+👋 Hi, I’m @raviteja10096<br>🌱 I’m currently Working on Airflow, Python, C#, Codefresh and MongoDB<br>💞️ I’m looking to collaborate on Exploring Angular/python Projects<br>📫 Reach me out @raviteja0096@gmail.com
 
 
 ## 🌐 Socials:
